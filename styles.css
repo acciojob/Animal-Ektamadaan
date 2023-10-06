@@ -1,7 +1,14 @@
-.*{
-	background-image : 
+*{	
+	
+}
+.container{
+	padding-top : 10px ;
+	background-image : url("https://wallpapercave.com/wp/wp3718491.jpg");
+	text-align : center ;
+	color : white ;
 }
 #pic{
 	width : 180px ;
 	border-radius: 15px ;
+	background-color : gray;
 }
